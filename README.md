@@ -673,15 +673,14 @@ Special thanks to our mentors, instructors, teammates, and the AI research commu
 
 ---
 
+## 🏏 3D Hawk-Eye DRS Simulation Engine
+
+**Algorithmically modeled. Mathematically simulated. Visually demonstrated.**
+
+
 <div align="center">
 
 # 🌟 Thank You For Visiting Our Project 🌟
 
-### Made using AI, React, FastAPI & Machine Learning
-
 </div>
 
-
-## 🏏 3D Hawk-Eye DRS Simulation Engine
-
-**Algorithmically modeled. Mathematically simulated. Visually demonstrated.**
